@@ -1,7 +1,7 @@
 {
   "name": "react-router-redux-course",
   "version": "1.0.0",
-  "description": "React, Router, Redux Course",
+  "description": "React, Router, Redux Learning",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/Helgesenhb/React-Router-Redux-Course.git"
   },
-  "author": "",
+  "author": "helgesenhb",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Helgesenhb/React-Router-Redux-Course/issues"
   },
-  "homepage": "https://github.com/Helgesenhb/React-Router-Redux-Course#readme"
+  "homepage": "https://github.com/Helgesenhb/React-Router-Redux-Course#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.20.5",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.20.2"
+  }
 }
